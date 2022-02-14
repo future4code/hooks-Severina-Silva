@@ -52,9 +52,9 @@ console.log( imc )*/
 function imprimeInformacoesUsuario() {
   // implemente sua lógica aqui
   // "Meu nome é NOME, tenho IDADE anos, e o meu email é EMAIL."
-let nome = prompt("escreva seu nome") 
-let idade = prompt("escreva sua idade")
-let email = prompt("escreva seu email")
+  let nome = prompt("escreva seu nome") 
+  let idade = prompt("escreva sua idade")
+  let email = prompt("escreva seu email")
 console.log( "meu nome é", nome, "tenho", idade, "anos", "e o meu e-mail é", email)
 
 }
@@ -62,6 +62,10 @@ console.log( "meu nome é", nome, "tenho", idade, "anos", "e o meu e-mail é", e
 // EXERCÍCIO 05
 function imprimeTresCoresFavoritas() {
   // implemente sua lógica aqui
+  let cor1 = prompt("digite uma cor")
+  let cor2 = prompt("digite outa cor")
+  let cor3 = prompt("digite mais uma cor")
+  console.log( cor1, cor2, cor3)
 
 }
 
