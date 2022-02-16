@@ -21,4 +21,18 @@ const frase = prompt("Digite uma frase")
 console.log(frase.toUpperCase().replaceAll("A", "I"), frase.length)
 */
 
+//EXERCICIO1
+
+
+
+//EXERCICIO2
+function imprimirIdade () {
+    const anoAtual = Number(prompt("digite ano atual"))
+    const anoDeNascimento = Number(prompt("digite ano de nascimento"))
+    console.log(anoDeNascimento)
+}
+
+
+//EXERCICIO3
+
 
