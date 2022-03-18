@@ -4,9 +4,11 @@
 
 
 // EXERCÍCIO 01
-function retornaTamanhoArray(array) {
-   
+const arrayOrdenado = [3, 2, 1, 4, 7]
+function retornaArrayOrdenado(array) {
+   return array.sort ()
 }
+console.log(retornaArrayOrdenado(arrayOrdenado))
 
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
