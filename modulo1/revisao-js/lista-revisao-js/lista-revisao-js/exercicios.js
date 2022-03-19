@@ -22,7 +22,13 @@ function retornaArrayOrdenado(array) {
 
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
-  
+ let arrayPar = [];
+ for (let index = 0; index < array.length; index++) {
+    if (array[index] % 2 === 0 ) {
+      arrayPar.push(array[index]);
+    }
+ }
+ return arrayPar;
 }
 
 // EXERCÍCIO 05
