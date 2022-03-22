@@ -1,0 +1,18 @@
+Resolução de problemas de código.
+
+lista de 7 passos:
+1º Ler o enunciado e garantir que todo o texto tenha sido entendido
+2º Retirr informações relevantes do enunciado para que tenha uma melhor absorção do que foi pedido
+ver o que pode ser transformado em valor no código
+3º Pnasar em inputs e outputs, ter a expectativa do que o programa vai execurar
+4º Realizar um esquema visual do que pretendemos escrever para a execução do código, podedo ser 
+em luxogramas ou até mesmo tópicos relevantes para escrita
+5º Criar de faro a estrutura de código, mesmo que ainda sem forma e necessitando de testagens
+6º Testar a execução do código
+7º Rinalmente refaturar o código
+
+Na prática, analisando as palavras chaves do enunciado sabemos que lista será um array
+Quando se trata de selecionar, refere-se a ação, que por sua vez trata-se de uma função
+tendo condições no enunciado, refere-se a condicionais
+
+Sempre utilizar o mesmo nome quando se referir as mesmas coisas (paciente, pessoas)
