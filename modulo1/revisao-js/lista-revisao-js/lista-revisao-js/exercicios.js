@@ -4,10 +4,10 @@
 
 
 // EXERCÍCIO 01
-function retornaArrayOrdenado(array) {
-   return array.sort();
+function  retornaTamanhoArray(array) {
+   return array.length
 }
-//parametro array retornando a quantidade de elemento que tem nem () vazio
+//retornando a quantidade de elemento
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
    return array.reverse() 
