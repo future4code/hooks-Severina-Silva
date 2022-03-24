@@ -5,14 +5,14 @@
 
 // EXERCÍCIO 01
 function retornaArrayOrdenado(array) {
-   return array.sort ()
+   return array.sort();
 }
 //parametro array retornando a quantidade de elemento que tem nem () vazio
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
- 
+   return array.reverse() 
 }
-
+//retornando array invertido
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
    
