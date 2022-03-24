@@ -15,9 +15,9 @@ function retornaArrayInvertido(array) {
 //retornando array invertido
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
-   
+   return array.sort((a, b) => a - b);
 }
-
+//precisei pesquisar como fazer, retornar no conteúdo pra entender melhor a lógica
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
  let arrayPar = [];
