@@ -4,20 +4,18 @@
 
 
 // EXERCÍCIO 01
-const arrayOrdenado = [3, 2, 1, 4, 7]
 function retornaArrayOrdenado(array) {
    return array.sort ()
 }
-console.log(retornaArrayOrdenado(arrayOrdenado))
-
+//parametro array retornando a quantidade de elemento que tem nem () vazio
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
-  
+ 
 }
 
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
-  
+   
 }
 
 // EXERCÍCIO 04
