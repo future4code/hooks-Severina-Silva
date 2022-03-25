@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+    background-color: rgba(53, 100, 60, 0.938);
+    height: 100%;
+}
+.cabecalho {
+
+    background-color: rgba(53, 100, 60, 0.938);
+ 
+}
+
+.cabecalho h1 {
+    
+}
